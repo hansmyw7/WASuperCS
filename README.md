@@ -5,7 +5,7 @@ WhatsApp for Super Customer Service. Powered with ChatGPT (text) and DALL-E (Tex
 
 ## Features
 Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>Untuk commandnya menggunakan ```/ai``` dan ```/img```
-Untuk fitur auto reply, silakan [hubungi saya](https://wa.me/6281515178997)
+\nUntuk fitur auto reply, silakan [hubungi saya](https://wa.me/6281515178997)
 
 ## Get & Change OpenAI ApiKey
 - Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
