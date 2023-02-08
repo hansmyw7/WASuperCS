@@ -17,7 +17,7 @@ Terdapat 2 fitur yaitu AI bot untuk menjawab berbagai pertanyaan umum, dan auto 
 Install [NodeJS](https://nodejs.org/en/download/)
  dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
 ```bash
-$ git clone https://github.com/HansMYWijaya/WASuperCS
+$ git clone https://github.com/hansmyw7/WASuperCS
 $ cd WASuperCS
 $ npm install
 $ node index.js
@@ -30,6 +30,6 @@ $ node index.js
 <a href="https://saweria.co/hansmyw7" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ## License
-[MIT License](https://github.com/HansMYWijaya/WASuperCS/blob/main/LICENSE)
+[MIT License](https://github.com/hansmyw7/WASuperCS/blob/main/LICENSE)
 
 Copyright (c) 2023 [Hans M. Y. Wijaya](https://wa.me/6281515178997) <<< Klik untuk WA
