@@ -1,5 +1,5 @@
 # WASuperCS
-WhatsApp for Super Customer Service. Powered with ChatGPT (text) and DALL-E (Text To Image) by OpenAI, and Auto Reply by Hans M. Y. Wijaya (WhatsApp +62 81 5151 789 97)
+WhatsApp for Super Customer Service. Powered with OpenAI, and Auto Reply by Hans M. Y. Wijaya (WhatsApp +62 81 5151 789 97)
 
 ***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
