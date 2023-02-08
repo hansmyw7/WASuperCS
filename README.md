@@ -22,21 +22,6 @@ $ cd WASuperCS
 $ npm install
 $ node index.js
 ```
-**Install on Termux ✅**
-
-Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat install otomatis melalui ```npm install``` terjadi error.
-<br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1gKGjseRirX6mQ5LOFULpmnDs7q3Svm8y/view?usp=sharing)
-```bash
-$ pkg install git nodejs -y
-$ git clone https://github.com/Sansekai/Wa-OpenAI
-$ cd Wa-OpenAI
-```
-Sesudah menginstall file node_modules, silahkan extract file ```node_modules.zip``` dan taruh di folder Wa-OpenAI.
-
-**Run**
-```bash
-$ node index.js
-```
 
 ## Donate to the source
 <a href="https://saweria.co/Sansekai" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
@@ -47,4 +32,4 @@ $ node index.js
 ## License
 [MIT License](https://github.com/HansMYWijaya/WASuperCS/blob/main/LICENSE)
 
-Copyright (c) 2023 [Hans M. Y. Wijaya](https://wa.me/6281515178997)
+Copyright (c) 2023 [Hans M. Y. Wijaya](https://wa.me/6281515178997) <<< Klik untuk WA
