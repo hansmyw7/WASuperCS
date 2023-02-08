@@ -4,8 +4,8 @@ WhatsApp for Super Customer Service. Powered with ChatGPT (text) and DALL-E (Tex
 ***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
 ## Features
-Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>Untuk commandnya menggunakan ```/ai``` dan ```/img```
-\nUntuk fitur auto reply, silakan [hubungi saya](https://wa.me/6281515178997)
+Terdapat 2 fitur yaitu AI bot untuk menjawab berbagai pertanyaan umum, dan auto reply untuk membantu Customer Service anda dalam melayani pelanggan
+<br>Untuk menginstall fitur auto reply, silakan [hubungi saya](https://wa.me/6281515178997)
 
 ## Get & Change OpenAI ApiKey
 - Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
