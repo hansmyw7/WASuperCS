@@ -8,8 +8,8 @@ Terdapat 2 fitur yaitu AI bot untuk menjawab berbagai pertanyaan umum, dan auto 
 <br>Untuk menginstall fitur auto reply, silakan [hubungi saya](https://wa.me/6281515178997)
 
 ## Get & Change OpenAI ApiKey
-- Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file [key.json](https://github.com/Sansekai/Wa-OpenAI/blob/3bd55740764bcb30084277f6be82d15b6ee25b99/key.json#L2)
+- Buat API key-nya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
+- Ganti API key OpenAI pada file [key.json](https://github.com/Sansekai/Wa-OpenAI/blob/3bd55740764bcb30084277f6be82d15b6ee25b99/key.json#L2)
 
 ## Install
 **Install on RDP/Windows ✅**
