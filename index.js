@@ -1,3 +1,5 @@
+require("http").createServer((_, res) => res.end("Berjalan Bro")).listen(8080)
+
 const sessionName = "hansmyw7";
 const donet = "https://saweria.co/hansmyw7";
 const owner = ["6281515178997"];
@@ -284,6 +286,7 @@ async function startHisoka() {
       }
     } else if (connection === "open") {
       console.log(color("Bot success conneted to server", "green"));
+      console.log(color("Donate for teh source https://saweria.co/sansekai", "yellow"));
       console.log(color("Donate for me https://saweria.co/hansmyw7", "yellow"));
       console.log(color("Type /menu to see menu"));
       client.sendMessage(owner + "@s.whatsapp.net", { text: `Bot started!\n\njangan lupa support ya bang :)\n${donet}` });
