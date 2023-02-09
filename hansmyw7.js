@@ -158,7 +158,7 @@ Membuat gambar dari teks`)
     m.reply(util.format(err));
   }
 };
-
+ 
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
   fs.unwatchFile(file);
