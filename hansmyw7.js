@@ -72,7 +72,7 @@ module.exports = hansmyw7 = async (client, m, chatUpdate, store) => {
       switch (command) {
         case "help":
         case "menu":
-          m.reply(`*Whatsapp Bot OpenAI*
+          m.reply(`*Selamat Datang di WASuperCS*
             
 *(ChatGPT)*
 Cmd: ${prefix}ai 
